@@ -1,0 +1,2 @@
+Emin Ayhan:90,80,70
+Cengiz Tümer:100,95,90
